@@ -1,4 +1,4 @@
-# Zuber Eats
+# Awesome Eats
 
 Lets make a revolutionary website.
 
